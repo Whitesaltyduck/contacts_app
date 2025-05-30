@@ -1,4 +1,4 @@
-Contacts App - A Flutter (Dart) Application
+# Contacts App - A Flutter (Dart) Application
 Overview
 A simple and intuitive contacts management app built using Flutter (Dart). This app allows users to add, view, edit, and manage contacts, mark favorites, and view recent activities. It features a clean, dark-themed UI with a minimalistic design, optimized for web, Android, and iOS platforms.
 Features
@@ -30,7 +30,7 @@ Recents Screen
 
 ---
 
-Getting Started
+# Getting Started
 Prerequisites
 
 Flutter SDK: Version 3.0.0 or higher
@@ -56,10 +56,10 @@ For web:flutter run -d chrome
 For Android/iOS:flutter run
 
 
+---
 
 
-
-Usage
+# Usage
 
 Launch the app on your preferred platform (web, Android, or iOS).
 View Contacts: Use the search bar at the top to find specific contacts.
