@@ -28,7 +28,8 @@ Favourites Screen
 
 Recents Screen
 
----
+
+
 
 # Getting Started
 Prerequisites
@@ -56,7 +57,6 @@ For web:flutter run -d chrome
 For Android/iOS:flutter run
 
 
----
 
 
 # Usage
